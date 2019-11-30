@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08c17192-42b2-4940-b33d-b8c50b08156c" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MqMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MqMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MsgReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MsgReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +86,7 @@
       <workItem from="1574826252025" duration="175000" />
       <workItem from="1574826462526" duration="7061000" />
       <workItem from="1575100142784" duration="299000" />
-      <workItem from="1575102271139" duration="311000" />
+      <workItem from="1575102271139" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1573436198866</created>
@@ -111,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575102307627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="订单取消，审核通知">
+      <created>1575102600620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575102600620</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +140,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="订单取消，审核通知" />
+    <option name="LAST_COMMIT_MESSAGE" value="订单取消，审核通知" />
   </component>
 </project>
