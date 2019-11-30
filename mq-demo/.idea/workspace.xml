@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08c17192-42b2-4940-b33d-b8c50b08156c" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MqMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MqMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MsgReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/MsgReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo/Order.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,11 +43,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/yiqishun/mqdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.20882353" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -85,6 +89,7 @@
       <workItem from="1573274933088" duration="15315000" />
       <workItem from="1574826252025" duration="175000" />
       <workItem from="1574826462526" duration="7061000" />
+      <workItem from="1575100142784" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1573436198866</created>
@@ -120,6 +125,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="初始化" />
     <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
