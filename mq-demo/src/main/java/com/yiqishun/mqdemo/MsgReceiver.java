@@ -50,6 +50,20 @@ public class MsgReceiver {
 
         }
 
+        if(mqMessage.getMsgType().equals("MSG_ORDER_SELF_CANCEL")){
+            System.out.println("---------取消订单审核通知");
+            Order order=JSON.parseObject(mqMessage.getContent(),Order.class);
+            if(order.getStatus()==1){
+                //审核通过
+            }
+            if(order.getStatus()==-1){
+                //审核不通过
+
+            }
+            //根据易企顺订单号改变商户系统订单状态
+
+        }
+
 
     }
 }

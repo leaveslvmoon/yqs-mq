@@ -8,6 +8,7 @@ public class MqMessage implements Serializable {
 
     public static final String MSG_ORDER_SEND = "MSG_ORDER_SEND";//订单发货
     public static final String MSG_ORDER_CANCEL = "MSG_ORDER_CANCEL";//订单取消
+    public static final String MSG_ORDER_SELF_CANCEL = "MSG_ORDER_SELF_CANCEL";//c端取消订单的审核通知
     public static final String MSG_GOODS_ON = "MSG_GOODS_ON";//商品上架
     public static final String MSG_GOODS_OFF = "MSG_GOODS_OFF";//商品下架
     public static final String MSG_GOODS_UPDATE = "MSG_GOODS_UPDATE";//商品修改
